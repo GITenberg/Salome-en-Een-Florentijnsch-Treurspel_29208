@@ -28,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29208#Salome-en-Een-Florentijnsch-Treurspel
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2009-06-23'
 gutenberg_type: Text
